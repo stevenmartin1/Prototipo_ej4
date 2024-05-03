@@ -40,9 +40,9 @@
             lstwPersonas.Columns.AddRange(new ColumnHeader[] { DocumentoCol, NombreCol, ApellidoCol, TelefonoCol });
             lstwPersonas.FullRowSelect = true;
             lstwPersonas.GridLines = true;
-            lstwPersonas.Location = new Point(88, 65);
+            lstwPersonas.Location = new Point(88, 45);
             lstwPersonas.Name = "lstwPersonas";
-            lstwPersonas.Size = new Size(616, 290);
+            lstwPersonas.Size = new Size(616, 310);
             lstwPersonas.TabIndex = 0;
             lstwPersonas.UseCompatibleStateImageBehavior = false;
             lstwPersonas.View = View.Details;
